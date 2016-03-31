@@ -1,0 +1,14 @@
+{
+  "name": "supinternet/moviesearch",
+  "require": {
+    "php"                   : ">=5.5",
+    "doctrine/dbal"         : ">=2.2.0"
+  },
+  "autoload": {
+      "psr-0": { 
+        "Controller": "src", 
+        "Model": "src",
+        "MovieSearch": "src"
+      }
+  }
+}
