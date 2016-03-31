@@ -39,13 +39,13 @@
                         Entre
                     </div>
                     <div class="col-sm-4">
-                        <input name="year_start" type="text" class="form-control" id="titleInput" placeholder="début">
+                        <input name="year_start" type="text" class="form-control" id="titleInput" placeholder="Début">
                     </div>
                     <div class="col-sm-1">
                         et
                     </div>
                     <div class="col-sm-4">
-                        <input name="year_end" type="text" class="form-control" id="titleInput" placeholder="fin">
+                        <input name="year_end" type="text" class="form-control" id="titleInput" placeholder="Fin">
                     </div>
                 </div>
                 <div class="form-group">
